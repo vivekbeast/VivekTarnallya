@@ -11,7 +11,7 @@ h1{
 }
 button{
     cursor: pointer;
-    background-color: rgb(122, 210, 60);
+    background-color: lightgreen;
     text-align: center;
     border-radius: 9px;
     height: 54px;
