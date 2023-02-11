@@ -1,3 +1,7 @@
+html{
+    background: linear-gradient(to top, #EEBD89, #D13ABD);
+}
+
 body{
     background: linear-gradient(to top, #EEBD89, #D13ABD);
     margin: 50px;
