@@ -33,4 +33,6 @@ button{
 .care{
     text-align: center;
 }
-
+[class*="col-"] {
+  width: 100%;
+}
