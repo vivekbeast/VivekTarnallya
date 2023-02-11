@@ -1,9 +1,6 @@
-html{
-    background: linear-gradient(to bottom, #EEBD89, #D13ABD);
-}
-
 body{
     margin: 50px;
+    background: linear-gradient(to bottom, #EEBD89, #D13ABD);
 }
 h1{
     color: rgb(255, 2, 61);
