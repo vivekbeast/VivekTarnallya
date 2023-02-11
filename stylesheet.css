@@ -1,5 +1,5 @@
 body{
-    background: linear-gradient(to right, rgb(194, 255, 80), #ffb042);
+    background: linear-gradient(to left, rgb(174, 155, 90), #ffb042);
     margin: 50px;
 }
 h1{
@@ -32,7 +32,4 @@ button{
 }
 .care{
     text-align: center;
-}
-[class*="col-"] {
-  width: 90%;
 }
