@@ -8,6 +8,7 @@ var pars = document.getElementsByTagName("p");
 document.write(pars + "<br/>");
 document.write(pars.length);
 document.getElementById('test').innerHTML = "heeeeeeeeee!";
+alert();
 console.log("this is is ");
 let string ='';
 let buttons = document.querySelectorAll('.but');
