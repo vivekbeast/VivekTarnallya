@@ -1,5 +1,6 @@
 var date = Date();
 var name = prompt("WHAT ARE YOU DOING BROTHER?");
+var alert = alert("DESKTOP SITE");
 document.write(name + "<br>");
  document.write(document.baseURI+"<br>")
 document.write(document.title+"<br>");
@@ -8,7 +9,7 @@ var pars = document.getElementsByTagName("p");
 document.write(pars + "<br/>");
 document.write(pars.length);
 document.getElementById('test').innerHTML = "heeeeeeeeee!";
-alert();
+document.write(alert + "<br>");
 console.log("this is is ");
 let string ='';
 let buttons = document.querySelectorAll('.but');
