@@ -1,4 +1,4 @@
-alert("DESKTOP SITE");
+alert("CHECK IN DESKTOP VIEW");
 var date = Date();
 var name = prompt("WHAT ARE YOU DOING BROTHER?");
 alert("DESKTOP SITE");
